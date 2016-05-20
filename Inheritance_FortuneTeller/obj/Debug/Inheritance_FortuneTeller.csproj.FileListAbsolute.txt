@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance_FortuneTeller\Inheritance_FortuneTeller\bin\Debug\Inheritance_FortuneTeller.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance_FortuneTeller\Inheritance_FortuneTeller\bin\Debug\Inheritance_FortuneTeller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance_FortuneTeller\Inheritance_FortuneTeller\bin\Debug\Inheritance_FortuneTeller.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance_FortuneTeller\Inheritance_FortuneTeller\obj\Debug\Inheritance_FortuneTeller.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance_FortuneTeller\Inheritance_FortuneTeller\obj\Debug\Inheritance_FortuneTeller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance_FortuneTeller\Inheritance_FortuneTeller\obj\Debug\Inheritance_FortuneTeller.pdb
